@@ -1,0 +1,15 @@
+#game-board {
+    width: 280px;
+    height: 560px;
+    margin: 0 auto;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+}
+
+.square {
+    width: 26px;
+    height: 26px;
+    margin: 1px;
+    float: left;
+    box-sizing: border-box;
+}
